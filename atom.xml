@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Green Apple Pi]]></title>
   <link href="http://AdamBurch.github.io/atom.xml" rel="self"/>
   <link href="http://AdamBurch.github.io/"/>
-  <updated>2013-12-30T23:47:48-08:00</updated>
+  <updated>2013-12-31T00:14:07-08:00</updated>
   <id>http://AdamBurch.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Adam Burch]]></name>
+    <email><![CDATA[p1d40n3@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New Blog]]></title>
+    <link href="http://AdamBurch.github.io/blog/2013/12/31/new-blog/"/>
+    <updated>2013-12-31T00:06:48-08:00</updated>
+    <id>http://AdamBurch.github.io/blog/2013/12/31/new-blog</id>
+    <content type="html"><![CDATA[<p>Alright, new projects new blog! My name is Adam David Burch, and I&rsquo;m a programmer who&rsquo;s passionate about videogames. This blog will primarily be about my videogame projects, although it could stray to any topic at any time &ndash; perils of a blog!</p>
+
+<p>This blog will update every Wednesday and Friday. Stay tuned!</p>
+]]></content>
+  </entry>
   
 </feed>
