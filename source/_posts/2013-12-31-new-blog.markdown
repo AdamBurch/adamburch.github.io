@@ -1,0 +1,10 @@
+---
+layout: post
+title: "New Blog"
+date: 2013-12-31 00:06:48 -0800
+comments: true
+categories: 
+---
+Alright, new projects new blog! My name is Adam David Burch, and I'm a programmer who's passionate about videogames. This blog will primarily be about my videogame projects, although it could stray to any topic at any time - perils of a blog!
+
+This blog will update every Wednesday and Friday. Stay tuned!
